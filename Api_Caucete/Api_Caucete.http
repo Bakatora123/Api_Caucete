@@ -1,0 +1,6 @@
+@Api_Caucete_HostAddress = http://localhost:5019
+
+GET {{Api_Caucete_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
